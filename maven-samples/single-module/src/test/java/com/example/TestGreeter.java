@@ -33,6 +33,7 @@ public class TestGreeter {
 
      
    @Test
+
   public void greetShouldIncludeGreetingMsgs() {
     String someone = "World, Thanks..I love you";
 
